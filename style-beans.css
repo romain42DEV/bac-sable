@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&family=Geist:wght@100..900&family=Modak&display=swap');
+
+h1{
+  font-family: "Modak", system-ui;
+  font-size: 100px;
+  font-weight: 400;
+  font-style: normal;
+  color: #2D281E;
+}
+
+h2{
+    font-family: "Modak", system-ui;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.txt-center{
+    text-align: center;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: green;
+    border-radius: 15px;
+    color:black;
+    padding: 9px 20px 9px 20px;
+    display: inline-block;
+}
