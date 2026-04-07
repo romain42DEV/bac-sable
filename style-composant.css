@@ -107,3 +107,58 @@ a{
     border: dashed 2px black;
 }
 
+
+.card{
+    width: 30%;
+    padding: 8px;
+    background-color: grey;
+    border-radius: 16px;
+    font-family: "Inter", sans-serif;
+    box-shadow: 2px 2px 15px rgb(201,201,201);
+}
+
+.width-30 {
+    width: 30%;
+}
+
+.img-width {
+    width: 100%;
+}
+
+.padding-8 {
+    padding: 8px;
+}
+
+.mt-16{
+    margin-top: 16px;
+}
+
+.img-height {
+    width: 50%;
+    height: 50%;
+}
+
+.margin-top-50 {
+    margin-top: 50px;
+}
+
+.radius-8{
+    border-radius: 8px;
+}
+
+.bg-grey {
+    background-color: grey;
+}
+
+.margin-left-50 {
+    margin-left: 50px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-around {
+    justify-content: space-around;
+}
