@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.w-300px{
+    width: 300px;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
