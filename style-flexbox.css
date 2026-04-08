@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.rouge{
+    background-color: red;
+}
+
+.bleu{
+    background-color: blue;
+}
+
+.vert{
+    background-color: green;
+}
+/*
+div{
+    width: 200px;
+    height: 200px;
+}
+*/
+.flex{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.gap{
+    gap:16px;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.w-15{
+    width: 15%;
+}
+
+.text-center{
+    text-align: center;
+}
