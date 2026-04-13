@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+header{
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-grey {
+    background-color: grey;
+}
+
+.bg-blanc {
+    background-color: white;
+}
+
+.relative {
+    position: relative;
+    top: 250px;
+    left: 250px;
+}
+
+.absolute {
+    position: absolute;
+    top: -10px;
+    left: 10px;
+}
+
+.fixed {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+a {
+    text-decoration: none;
+}
+
+.font-size-32 {
+    font-size: 32px;
+}
+
+.black {
+    color: black;
+}
+
+.border-radius-20 {
+    border-radius: 20px;
+}
+
+.padding-10 {
+    padding: 10px;
+}
